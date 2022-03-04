@@ -1,13 +1,4 @@
-Description:
-
-
-End Goal:
-
-
-Analisys:
-
-
-Solution:
-
-
-
+Description: 
+Lab: End Goal: 
+Analisys: 
+Solution: 
